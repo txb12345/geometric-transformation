@@ -1,1 +1,1 @@
-# geometric-transformation
+We utilize geometric transformation to simulate the distorted SAR images. The  geometric transformation involves distortion parameter and flight angle parameter. The distortion parameter is used to control the distortion degree of SAR images, and the flight angle parameter is used to control the angle between aspect direction and horizon direction. By adjusting these two parameters, we obtain SAR images with different degrees of distortion and angles between aspect direction and horizon direction. The detailed process is introduced in Algorithm 1.
